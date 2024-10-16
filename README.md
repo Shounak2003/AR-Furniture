@@ -1,6 +1,6 @@
 # 🛠️ MeasureMate
 
-Welcome to the MeasureMate repository! This Unity project leverages AR Foundation to scan and capture wall faces, estimate measurements, and record device movement. Additionally, it allows users to measure the distance between two pieces of furniture in a room. It's designed specifically for Android devices.
+Welcome to the `MeasureMate` repository! This Unity project leverages AR Foundation to scan and capture wall faces, estimate measurements, and record device movement. Additionally, it allows users to measure the distance between two pieces of furniture in a room. It's designed specifically for Android devices.
 
 ## 🌟 Features
 
